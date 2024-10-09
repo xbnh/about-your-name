@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3deb80b7-2dfd-46e5-8c45-f62dff8fb87f" name="about-hasham" url="https://ddc-web-student.cnm.edu/~jandrade14/about-hasham">
+        <fileTransfer rootFolder="/home/jandrade14/public_html/about-hasham" accessType="SFTP" host="ddc-web-student.cnm.edu" port="22" sshConfigId="23266824-9aac-4236-a16a-dbad0d3fb40a" sshConfig="jandrade14@ddc-web-student.cnm.edu:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
